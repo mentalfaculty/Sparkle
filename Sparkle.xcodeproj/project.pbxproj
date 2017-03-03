@@ -1878,6 +1878,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D30D94A70100DD942E /* ConfigRelaunchDebug.xcconfig */;
 			buildSettings = {
+				PRODUCT_BUNDLE_IDENTIFIER = com.mentalfaculty.studies.Sparkle.Autoupdate;
 			};
 			name = Debug;
 		};
@@ -1885,6 +1886,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D40D94A70100DD942E /* ConfigRelaunchRelease.xcconfig */;
 			buildSettings = {
+				PRODUCT_BUNDLE_IDENTIFIER = com.mentalfaculty.studies.Sparkle.Autoupdate;
 			};
 			name = Release;
 		};
